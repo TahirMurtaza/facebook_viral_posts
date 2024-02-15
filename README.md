@@ -15,16 +15,16 @@ To run the script here are the steps:
 
 ## Following permissions are required in FB APP
 
-pages_manage_cta
-pages_manage_instant_articles
-pages_show_list
-read_page_mailboxes
-pages_messaging
-pages_messaging_subscriptions
-page_events
-pages_read_engagement
-pages_manage_metadata
-pages_read_user_content
-pages_manage_ads
-pages_manage_posts
+pages_manage_cta, 
+pages_manage_instant_articles, 
+pages_show_list,
+read_page_mailboxes,
+pages_messaging,
+pages_messaging_subscriptions,
+page_events,
+pages_read_engagement,
+pages_manage_metadata,
+pages_read_user_content,
+pages_manage_ads,
+pages_manage_posts,
 pages_manage_engagement
