@@ -1,8 +1,8 @@
 # Facebook Image Posts Analytics Script
 ## The script uses FB Graph API to list the image posts from the past 7 days in descending order of virality.
-## The script which is be able to login with Facebook, give it the permissions it needs, then it should just list all images posted in the last 7 days from all my facebook pages, filtered descending from the image with the biggest number of likes to the image with the smallest number of likes.
+The script which is be able to login with Facebook, give it the permissions it needs, then it should just list all images posted in the last 7 days from all my facebook pages, filtered descending from the image with the biggest number of likes to the image with the smallest number of likes.
 
-# Steps
+## Steps
 
 To run the script here are the steps:
 1. Go to FB Graph API explorer https://developers.facebook.com/tools/explorer/ and select your app Id. Generate access token and copy it.
